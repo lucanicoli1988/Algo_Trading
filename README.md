@@ -1,1 +1,1 @@
-# Algo trading test reposiroty
+# Algo trading test repo
